@@ -1,0 +1,2 @@
+# Sheetal_Student_Feedback_Management_System_django
+Student Feedback Management System project created in django
